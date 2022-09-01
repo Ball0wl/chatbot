@@ -38,7 +38,7 @@ while nutzereingabe != "bye":
     while nutzereingabe == "":
         nutzereingabe = input("Deine Frage/Antwort: ")
     nutzereingabe = nutzereingabe.lower()
-    nutzereingabe = nutzereingabe.replace(" ", "")
+    """nutzereingabe = nutzereingabe.replace(" ", "")"""
     nutzerwoerter = nutzereingabe.split()
 
     intelligenteAntworten = False
