@@ -20,6 +20,8 @@ reaktionsantworten = {"hallo": "guten Tag Brudi",
                       "wiegehtesdir": "mir geht es gut und selbst?",
                       "gut": "super! das freut mich :)",
                       "name": "Ich bin der Awesom-O-9000",
+                      "heisst": "Ich bin der Awesom-O-9000",
+                      "heißt": "Ich bin der Awesom-O-9000",
 
 
 }
